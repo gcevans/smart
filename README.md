@@ -1,0 +1,2 @@
+# smart
+Smart Pointer Example

@@ -10,4 +10,4 @@ public:
     ~DeleteMe() {std::cout << "Destruct: " << this << std::endl;}
 };
 
-#endif
+#endif //SMART_H

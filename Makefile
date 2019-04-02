@@ -1,7 +1,7 @@
-CXX = clang++
-LD = clang++
-LDFLAGS = -std=c++14 -fsanitize=address
-CXXFLAGS = -std=c++14 -fsanitize=address
+CXX = g++
+LD = g++
+LDFLAGS = -std=c++1y
+CXXFLAGS = -std=c++1y
 RM = rm
 
 TESTS = tests
